@@ -18,11 +18,11 @@ module.exports = {
   production: {
     client: 'mysql',
     connection: {
-      host: 'edo4plet5mhv93s3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+      host: 'g8r9w9tmspbwmsyo.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
       port: 3306,
-      user: 	'zvpy6f7gtiplhgx6',
-      password: 'iyrnxkrgfz04org9',
-      database: 't0zo1lcmjt0nryog'
+      user: 'ayzxkku2vm25c6jk',
+      password: 'xjt1vs16zbg9wwod',
+      database: 'kyej30rdfwcqt1qb'
     }
   }
 
