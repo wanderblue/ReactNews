@@ -97,7 +97,7 @@ class App extends Component {
         <div>
         <Switch>
         
-        <Route exact path="/" component={Home} />
+        <Route exact path="/" component={TopNews} />
          
              
        
