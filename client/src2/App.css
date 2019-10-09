@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  
+}
+.nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: rgb(66, 89, 155);
+  }
+.navLinkCluster{
+  float: right;
+  margin-left: auto;
+}
+.navBrand{
+  float:left;
+  margin-right: auto;
+}
+.navLinks {
+ margin: auto;
+ color: white;  
+}
+.whiteText{
+  color: white;
+}
+.link:hover{
+color:rgb(57, 206, 131);
+}
