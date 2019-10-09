@@ -99,6 +99,13 @@ class App extends Component {
         
          
              
+        <Route
+                exact
+                path='/'
+                component={TopNews}
+              />
+
+             
               <Route
                 exact
                 path='/topnews'
