@@ -20,9 +20,9 @@ module.exports = {
     connection: {
       host: 'g8r9w9tmspbwmsyo.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
       port: 3306,
-      user: 'ayzxkku2vm25c6jk',
-      password: 'xjt1vs16zbg9wwod',
-      database: 'kyej30rdfwcqt1qb'
+      user: 'hmcagnut7hb9gnbm',
+      password: 'irjfxnnreiatryjb',
+      database: 'hafdb78863f0n0y5'
     }
   }
 
