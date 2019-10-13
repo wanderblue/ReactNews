@@ -10,8 +10,6 @@ Node.js
 
 Express.js
 
-Heroku
-
 Passport JS
 
-Chart JS
+
